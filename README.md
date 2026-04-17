@@ -23,6 +23,7 @@ https://github.com/diya-Projects/STUDIFY
 
 🔹 **CureSense**  
 A health monitoring system designed to track and analyze health-related data.
+https://github.com/diya-Projects/CURESENSE
 
 🔹 **Smart Sound Filter**  
 A project designed to filter and process sound signals for better audio clarity.
