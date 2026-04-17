@@ -7,11 +7,14 @@
 
 ## 🚀 Skills
 - Java
+- C
+- DBMS
 - Python
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
+- AI-assisted development tools
 
 ---
 
