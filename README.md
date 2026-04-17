@@ -41,9 +41,11 @@ Noise reduction and audio processing system.
 
 **🔹 CureSense**  
 Health monitoring and analysis system.
+https://github.com/diya-Projects/CURESENSE
 
 **🔹 Studify**  
 Student task & subject management web app.
+https://github.com/diya-Projects/STUDIFY
 
 **🔹 HerNova**  
 Women’s health and wellbeing innovation project.
