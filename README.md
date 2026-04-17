@@ -1,4 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Diya Pradeep
+
+🎓 Computer Science Student  
+💻 Interested in Web Development and Software Engineering  
+
+---
+
+## 🚀 Skills
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+🔹 **Studify**  
+A web application that helps students manage subjects, study tasks, and deadlines efficiently.
+
+🔹 **CureSense**  
+A health monitoring system designed to track and analyze health-related data.
+
+🔹 **Smart Sound Filter**  
+A project designed to filter and process sound signals for better audio clarity.
+
+🔹 **Printify**  
+A printing management system that helps organize and manage printing tasks.
+
+🔹 **HerNova**  
+A project focused on innovative solutions related to women's health and wellbeing.
+
+---
+
+## 🌱 Currently Learning
+- Advanced Web Development
+- Backend Development
+- Software Engineering concepts
+
+---
+
+## 🔗 Connect with me
+LinkedIn: https://www.linkedin.com/in/diyapradeep138
 
 <!--
 **diyakallarackal/diyakallarackal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
