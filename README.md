@@ -1,6 +1,6 @@
 # Hi 👋 I'm Diya Pradeep
 
-🎓 Computer Science Student  
+🎓 Computer Science Btech Student  
 💻 Full Stack , Web Development & Software Engineering Enthusiast  
 🏆 National Level Hackathon Prize Winner  
 🤖 Exploring AI-assisted Development  
