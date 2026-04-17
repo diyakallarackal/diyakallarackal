@@ -7,6 +7,11 @@
 
 ---
 
+## 🚀 About Me
+I enjoy building scalable web applications and solving real-world problems through software development.  
+I have experience working on hackathon-level projects and academic systems with full-stack features.
+---
+
 ## 🚀 Skills
 
 ### Programming Languages
@@ -19,10 +24,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Technologies
+### Development Tools & Environment 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-4DB33D?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-blueviolet?style=for-the-badge)
 
 ---
