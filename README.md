@@ -1,54 +1,87 @@
 # Hi 👋 I'm Diya Pradeep
 
-🎓 Computer Science Btech Student  
-💻 Passionate about Full Stack Development, Web Technologies and Software Engineering.
+🎓 Computer Science Student  
+💻 Full Stack , Web Development & Software Engineering Enthusiast  
+🏆 National Level Hackathon Prize Winner  
+🤖 Exploring AI-assisted Development  
 
 ---
 
 ## 🚀 Skills
-- Java
-- C
-- DBMS
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- AI-assisted development tools
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4DB33D?style=for-the-badge)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-blueviolet?style=for-the-badge)
 
 ---
 
-## 📂 Projects
+## 🏆 Hackathon Achievements
 
-🔹 **Studify**  
-A web application that helps students manage subjects, study tasks, and deadlines efficiently.
-https://github.com/diya-Projects/STUDIFY
+🥉 **Smart Sound Filter** – 3rd Prize, National Level Hackathon  
+🥉 **CureSense** – 3rd Prize, Hackathon  
 
-🔹 **CureSense**  
-A health monitoring system designed to track and analyze health-related data.
-https://github.com/diya-Projects/CURESENSE
+---
 
-🔹 **Smart Sound Filter**  
-A project designed to filter and process sound signals for better audio clarity.
+## 📂 Featured Projects
 
-🔹 **Printify**  
-A printing management system that helps organize and manage printing tasks.
+**🔹 Smart Sound Filter**  
+Noise reduction and audio processing system.
 
-🔹 **HerNova**  
-A project focused on innovative solutions related to women's health and wellbeing.
+**🔹 CureSense**  
+Health monitoring and analysis system.
+
+**🔹 Studify**  
+Student task & subject management web app.
+
+**🔹 HerNova**  
+Women’s health and wellbeing innovation project.
+
+**🔹 Printify**  
+Printing task management system.
+
+---
+
+## 🎯 Activities
+
+✔ Hackathons & Buildathons  
+✔ Technical Workshops  
+✔ AI-assisted development exploration  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Web Development
-- Backend Development
-- Software Engineering concepts
+
+- Advanced Full Stack Development  
+- Backend Development  
+- Software Engineering Concepts  
 
 ---
 
-## 🔗 Connect with me
-LinkedIn: https://www.linkedin.com/in/diyapradeep138
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyakallarackal&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyakallarackal&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=diyakallarackal)
+
+---
+
+## 🔗 Connect with Me
+
+👉 LinkedIn: https://www.linkedin.com/in/diyapradeep138
 <!--
 **diyakallarackal/diyakallarackal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
