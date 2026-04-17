@@ -19,6 +19,7 @@
 
 🔹 **Studify**  
 A web application that helps students manage subjects, study tasks, and deadlines efficiently.
+https://github.com/diya-Projects/STUDIFY
 
 🔹 **CureSense**  
 A health monitoring system designed to track and analyze health-related data.
