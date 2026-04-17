@@ -1,6 +1,6 @@
 # Hi 👋 I'm Diya Pradeep
 
-🎓 Computer Science Student  
+🎓 Computer Science Btech Student  
 💻 Passionate about Full Stack Development, Web Technologies and Software Engineering.
 
 ---
