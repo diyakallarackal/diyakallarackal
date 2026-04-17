@@ -1,7 +1,7 @@
 # Hi 👋 I'm Diya Pradeep
 
 🎓 Computer Science Student  
-💻 Interested in Web Development and Software Engineering  
+💻 Passionate about Full Stack Development, Web Technologies and Software Engineering.
 
 ---
 
